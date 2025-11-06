@@ -1,9 +1,9 @@
-* **Програмування:** Активно вивчаю та практикую **C/C++**.
-* **Наука:** Захоплююсь **фізикою** та **хімією**.
-* **Математика:** Поглиблено вивчаю **вищу математику**.
-* **Захоплення:** Цікавлюсь усім, що пов'язано з **космосом** та ракетобудуванням.
+* **Programming:** Actively learning and practicing **C/C++**.
+* **Science:** Passionate about **physics** and **chemistry**.
+* **Mathematics:** Studying **higher mathematics** in-depth.
+* **Interests:** Interested in everything related to **space** and rocketry.
 
-### 🛠️ Мої інструменти та технології
+### 🛠️ My Tools & Technologies
 
 <p align="left">
   <a href="https://skillicons.dev">
