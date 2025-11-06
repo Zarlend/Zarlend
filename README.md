@@ -2,6 +2,14 @@
   <a href="https://t.me/@maxfors22" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
+  
+  <a href="https://steamcommunity.com/id/maxfors228/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+  </a>
+  
+  <a href="https://www.instagram.com/maxordynskyi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a> 
 </p>
 
 * **Programming:** Actively learning and practicing **C/C++**.
