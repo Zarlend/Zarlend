@@ -9,3 +9,5 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,git,linux,vscode,vs&theme=dark" />
   </a>
 </p>
+
+![Zarlend's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zarlend&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
