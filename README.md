@@ -1,6 +1,5 @@
 * **Programming:** Actively learning and practicing **C/C++**.
 * **Science:** Passionate about **physics** and **chemistry**.
-* **Mathematics:** Studying **higher mathematics** in-depth.
 * **Interests:** Interested in everything related to **space** and rocketry.
 
 ### 🛠️ My Tools & Technologies
