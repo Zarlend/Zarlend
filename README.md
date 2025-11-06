@@ -1,3 +1,9 @@
+<p align="left">
+  <a href="https://t.me/@maxfors22" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+
 * **Programming:** Actively learning and practicing **C/C++**.
 * **Science:** Passionate about **physics** and **chemistry**.
 * **Interests:** Interested in everything related to **space** and rocketry.
